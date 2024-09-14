@@ -1,0 +1,1 @@
+This is Ange Constance Nimuhire. I wrote codes for minimum operations where I have a method that calculates the fewest number of operations needed to result in exactly n H characters in the file.
